@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SECRET AMBITION",
+  "base_artist": "水樹奈々",
+  "createdAt": "2026-01-14T03:40:50.126599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret Ambition",
+      "artist": "Michael W. Smith",
+      "has_synced": true,
+      "path": "select/01_Secret_Ambition_Michael_W._Smith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SECRET AMBITION",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/02_SECRET_AMBITION_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SECRET AMBITION",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/03_SECRET_AMBITION_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SECRET AMBITION",
+      "artist": "Mizuki Nana",
+      "has_synced": true,
+      "path": "select/04_SECRET_AMBITION_Mizuki_Nana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Secret Ambition",
+      "artist": "The Katinas",
+      "has_synced": false,
+      "path": "select/05_Secret_Ambition_The_Katinas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Secret Ambition",
+      "artist": "Michael W. Smith",
+      "has_synced": false,
+      "path": "select/06_Secret_Ambition_Michael_W._Smith.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SECRET AMBITION",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/07_SECRET_AMBITION_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SECRET AMBITION",
+      "artist": "Nana Mizuki",
+      "has_synced": false,
+      "path": "select/08_SECRET_AMBITION_Nana_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SECRET AMBITION (without nana)",
+      "artist": "Nana Mizuki",
+      "has_synced": false,
+      "path": "select/09_SECRET_AMBITION_(without_nana)_Nana_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Secret Ambition - David Crowder Band",
+      "artist": "David Crowder Band",
+      "has_synced": false,
+      "path": "select/10_Secret_Ambition_-_David_Crowder_Band_David_Crowder_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SECRET AMBITION",
+      "artist": "水樹奈々",
+      "has_synced": false,
+      "path": "select/11_SECRET_AMBITION_水樹奈々.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Secret Ambition",
+      "artist": "Michael W. Smith",
+      "has_synced": true,
+      "path": "select/12_Secret_Ambition_Michael_W._Smith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Secret Ambition",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/13_Secret_Ambition_Various.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Secret Ambition",
+      "artist": "Michael W. Smith",
+      "has_synced": false,
+      "path": "select/14_Secret_Ambition_Michael_W._Smith.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SECRET AMBITION (without NANA)",
+      "artist": "水樹奈々",
+      "has_synced": false,
+      "path": "select/15_SECRET_AMBITION_(without_NANA)_水樹奈々.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SECRET AMBITION",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_SECRET_AMBITION_水樹_奈々.txt"
+    }
+  ]
+}
